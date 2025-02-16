@@ -1,3 +1,3 @@
 Sorry, this repository is outdated.
 
-Look at https://git.postactiv.com/themightyglider/RogueBoxAdventures for the new one.
+Look at <del>https://git.postactiv.com/themightyglider/RogueBoxAdventures</del> <ins>https://gitlab.com/The_Mighty_Glider</ins> for the new one.
